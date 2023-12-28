@@ -1,10 +1,12 @@
 # Tech Rebel
 
+Tech Rebel is a web3 Product Management Agency I founded with Sergio, a lifetime friend of mine.&#x20;
+
 ### **Vision and Mission**
 
 Our mission is to empower businesses to successfully enter the digital realm of blockchain and web3. We specialize in turning bold ideas into well-defined, actionable strategies, ensuring a robust groundwork for successful development.
 
-### **Our Core: From Idea to Development-Ready**
+### **From Idea to Development-Ready**
 
 Tech Rebel excels in transforming innovative ideas into meticulously documented, development-ready solutions. Our primary deliverable, a comprehensive Product Requirements Document (PRD), is the result of an in-depth and strategic journey. We specialize in bringing concepts to a dev-ready state, focusing on thorough documentation and detailed analysis. Our core process encompasses:
 
