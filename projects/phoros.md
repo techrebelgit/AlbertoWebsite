@@ -1,22 +1,22 @@
 # Phoros
 
-## **Phoros: Web3 tools for creators**
+## **Web3 tools for creators**
+
+Phoros is launching Q1 2024.&#x20;
+
+Phoros is a product designed to address a critical gap in the Web3 ecosystem:\
 
 
+It is easy to issue an NFT and  therefore create an issuer-holder relationship, but nurturing this relationship is very hard. &#x20;
 
-Phoros stands at the forefront of innovation in the Web3 domain, uniquely positioned to transform the landscape of community engagement around Non-Fungible Tokens (NFTs). The platform is tailored to address a critical gap in the Web3 ecosystem - sustained engagement post-token distribution. By providing user-friendly tools, Phoros bridges the divide between token issuers and their communities, fostering deeper, more meaningful interactions.
+You see, crators have a lot of issues on web2 that web3 promises to solve. But the reality for most of the creators that have adopted web3 is that:
 
-The core of Phoros's offering is its novel integration with popular social media platforms, beginning with a groundbreaking feature: token-gated Twitter Lists. This feature enables creators to curate exclusive Twitter feeds for their token holders, enhancing community interaction and engagement directly on platforms where their audience already thrives.
+* There are no intuitive tools to engage with the community
+* There are either new web3 platforms without much audience, or platforms like Discord and Telegram that dilute the conversation and forces them to "moderate"
+* Discovery is limited to profile pics or discord roles.&#x20;
+* Providing exclusive experiences to holder require Technical Expertise.&#x20;
 
-Phoros's vision extends beyond current offerings. Future expansions include advanced analytics for on-chain and social media engagement, expanded token-gating across various platforms, and the introduction of gamification elements to incentivize and enrich community interactions.
 
-### **The Problematic: Post-Token Distribution Engagement Challenges in Web3 Communities**
-
-#### **Core Challenges**
-
-1. **Post-Token Distribution Engagement**: In the Web3 world, maintaining active, meaningful engagement after token distribution is a significant challenge. Creators, including artists, educators, and community builders, often struggle to keep their audience engaged beyond the initial token acquisition.
-2. **Fragmented Communication Channels**: Common platforms like Discord and Telegram, while functional, often lead to scattered and diluted conversations. This fragmentation hampers the development of cohesive community interactions.
-3. **Discovery and Connection Limitations**: The lack of a unified platform in the Web3 space makes it difficult for community members to discover and connect with each other, especially in the vast expanse of large social media networks.
 
 #### **Unique Dynamics of Web3 Communities**
 
@@ -28,13 +28,15 @@ Phoros's vision extends beyond current offerings. Future expansions include adva
 
 Phoros is conceived as a comprehensive solution that redefines engagement within Web3 communities. It aims to empower token issuers and community builders by offering a suite of tools that facilitate enhanced interaction and engagement. The vision is to create a seamless integration between the decentralized world of Web3 tokens and the centralized platforms of social media, leveraging the best of both worlds to foster community growth and cohesion.
 
+The core of Phoros's offering is its novel integration with popular social media platforms, beginning with a groundbreaking feature: token-gated Twitter Lists. This feature enables creators to curate exclusive Twitter feeds for their token holders, enhancing community interaction and engagement directly on platforms where their audience already thrives.
+
 ### **Core Functionality: Token-gated Twitter Lists**
 
 #### What Are Twitter Lists?
 
 Twitter Lists are a feature within the Twitter platform that allows users to create curated collections of Twitter accounts. These lists serve various purposes, making it easier for users to organize and manage their Twitter experience.
 
-#### Traditional Uses of Twitter Lists
+### Traditional Uses of Twitter Lists
 
 **Curated Feeds**
 
@@ -56,18 +58,18 @@ Phoros introduces a groundbreaking approach to Twitter Lists by adding a layer o
 
 * **Token-Gated Membership**: With Phoros, Twitter Lists can be set up so that only users holding specific NFTs or digital tokens can become members of a list. This token gating creates a curated feed of validated token holders, fostering a new space for discovery, interaction, and reach augmentation. Community members can now discover each other and interact right on Twitter.
 
-Twitter Lists on Phoros redefine community engagement by combining the power of Twitter with the exclusivity of Web3 tokens. This innovative approach enables Creators and Members to create and participate in vibrant and exclusive communities, while List Followers can access curated content more efficiently.
+Phoros redefine community engagement by combining the power of Twitter with the exclusivity of Web3 tokens. This approach enables Creators and Members to create and participate in vibrant and exclusive communities, while List Followers can access curated content more efficiently.
 
 ### Use Cases for Token-Gated Twitter Lists
 
-Token-gated Twitter Lists on Phoros offer versatile solutions for a wide range of scenarios. Here are some key use cases that highlight their practical applications:
+Here are some key use cases that highlight their practical applications:
 
 ### Event Organizers
 
-**Use Case 1: Real-Time Event Engagement**
+**Use Case 1: Real-Time Engagement**
 
 * **Scenario**: Event organizers often face the challenge of engaging attendees during events, particularly in large virtual conferences or physical gatherings. Traditional event hashtags can lead to fragmented discussions and limited engagement. Also, event-goers have a limited timeframe to network with attendees.
-* **Phoros Solution**: Event organizers can leverage Phoros to create token-gated Twitter Lists exclusively for event attendees. By using the event NFT ticket or POAP, attendees who hold the token can add their Twitter account to the list. This creates a digital networking space right on Twitter. This also empowers event organizers to foster a sense of community among attendees, streamline event-related discussions, and enhance the overall event experience without relying on scattered hashtags or external platforms.
+* **Phoros Solution**: Event organizers can leverage Phoros to create token-gated Twitter Lists exclusively for event attendees. By using an NFT ticket or POAP, attendees who hold the token can add their Twitter account to the list. This creates a digital networking space right on Twitter. This also empowers event organizers to foster a sense of community among attendees, streamline event-related discussions, and enhance the overall event experience without relying on scattered hashtags or external platforms.
 
 ### Artists
 
@@ -78,10 +80,10 @@ Token-gated Twitter Lists on Phoros offer versatile solutions for a wide range o
 
 ### Educators
 
-**Use Case 3: Enhanced Learning Environments**
+**Use Case 3: Enhanced Learning Engagement**
 
-* **Scenario**: Educators aim to provide students with spaces to interact around their courses.
-* **Phoros Solution**: Educators can utilize Phoros to establish token-gated Twitter Lists linked to course-specific NFTs or badges. Students who hold these NFTs can join the Lists, creating dedicated spaces for discussions, collaboration, and seeking academic support. This enhances the learning experience by facilitating peer interactions and fostering a sense of community among learners. Phoros enriches the educational journey by providing a platform for ongoing discussions and networking opportunities, creating a more vibrant and connected learning environment.
+* **Scenario**: Educators aim to provide students with spaces to interact and engage around their courses.&#x20;
+* **Phoros Solution**: Educators can utilize Phoros to establish token-gated Twitter Lists linked to course-specific NFTs or badges. Students who hold these NFTs can join the Lists, creating dedicated spaces for discovery, collaboration, discussions and seeking academic support. This enhances the learning experience by facilitating peer interactions and fostering a sense of community among learners.&#x20;
 
 ### Community Builders
 
@@ -89,7 +91,5 @@ Token-gated Twitter Lists on Phoros offer versatile solutions for a wide range o
 
 * **Scenario**: Community builders aim to strengthen the bonds among their community members through focused discussions and shared interests.
 * **Phoros Solution**: Community builders can establish token-gated Twitter Lists linked to specific community-related NFTs. Members who hold these NFTs can access these Lists to engage in relevant discussions, share resources, and connect with like-minded individuals. Phoros empowers community builders to create exclusive spaces where members can connect, collaborate, and deepen their sense of belonging, ultimately fostering a stronger and more engaged community.
-
-Whether you're an event organizer, artist, educator, or community builder, Phoros offers innovative solutions to enhance engagement and connectivity within your community, right there on Twitter.
 
 This is the first of many features to come for Phoros, I will update the content here as we move on.&#x20;
