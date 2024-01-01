@@ -28,10 +28,10 @@ The next company I joined was BeInCrypto.com, a fully remote company Crypto News
 
 With the networking I built participating in hackathons in Argentina and my experience as an early stage Product Manager, I founded Tech Rebel, a product agency dedicated to helping companies experiment with blockchain and crypto. We've developed a unique framework for discovery, definition, and scoping of POCs and MVPs. We specialize in turning bold ideas into well-defined, actionable strategies, ensuring a robust groundwork for successful development.
 
-From Tech Rebel, two products (spin-offs?) have won awards and continue on their journey towards PMF: \
+From Tech Rebel, two products (spin-offs?) have won awards and continue on their journey towards Product Market Fit: \
 Phoros\
 Veritrust.
 
-You can learn more of them on the following chapters.  These projects embody my passion for innovation and my commitment to driving change in the tech world.
+You can learn more of them on the following chapters. &#x20;
 
 Thank you for joining me on this journey of transformation, exploration, and innovation. Together, let's explore the limitless possibilities of technology.
