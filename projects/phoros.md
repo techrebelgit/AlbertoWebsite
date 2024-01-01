@@ -2,10 +2,11 @@
 
 ## **Web3 tools for creators**
 
+This project was part of the Brainy's path Hackathon and Speezard Incubators. Has won Hackathons, Pitch Competitions and has led me to pitch to investors.&#x20;
+
 Phoros is launching Q1 2024.&#x20;
 
-Phoros is a product designed to address a critical gap in the Web3 ecosystem:\
-
+Phoros is a product designed to address a critical gap in the Web3 ecosystem:
 
 It is easy to issue an NFT and  therefore create an issuer-holder relationship, but nurturing this relationship is very hard. &#x20;
 
