@@ -65,28 +65,28 @@ Phoros redefine community engagement by combining the power of Twitter with the 
 
 Here are some key use cases that highlight their practical applications:
 
-### Event Organizers
+#### Event Organizers
 
 **Use Case 1: Real-Time Engagement**
 
 * **Scenario**: Event organizers often face the challenge of engaging attendees during events, particularly in large virtual conferences or physical gatherings. Traditional event hashtags can lead to fragmented discussions and limited engagement. Also, event-goers have a limited timeframe to network with attendees.
 * **Phoros Solution**: Event organizers can leverage Phoros to create token-gated Twitter Lists exclusively for event attendees. By using an NFT ticket or POAP, attendees who hold the token can add their Twitter account to the list. This creates a digital networking space right on Twitter. This also empowers event organizers to foster a sense of community among attendees, streamline event-related discussions, and enhance the overall event experience without relying on scattered hashtags or external platforms.
 
-### Artists
+#### Artists
 
 **Use Case 2: Interactive Art Communities**
 
 * **Scenario**: Artists often seek closer interactions with their collectors, sharing their creative process, receiving feedback, and building a dedicated community of supporters.
 * **Phoros Solution**: Artists can create token-gated Twitter Lists using their art collections. This allows the artist to engage in direct interactions with their top supporters. Phoros enables artists to strengthen their connection with collectors, nurture a loyal community, and create a more intimate space for sharing and discussing their art.
 
-### Educators
+#### Educators
 
 **Use Case 3: Enhanced Learning Engagement**
 
 * **Scenario**: Educators aim to provide students with spaces to interact and engage around their courses.&#x20;
 * **Phoros Solution**: Educators can utilize Phoros to establish token-gated Twitter Lists linked to course-specific NFTs or badges. Students who hold these NFTs can join the Lists, creating dedicated spaces for discovery, collaboration, discussions and seeking academic support. This enhances the learning experience by facilitating peer interactions and fostering a sense of community among learners.&#x20;
 
-### Community Builders
+#### Community Builders
 
 **Use Case 4: Strengthening Community Bonds**
 
