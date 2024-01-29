@@ -1,12 +1,12 @@
 # Table of contents
 
 * [About me](README.md)
-  * [Projects](about-me/projects/README.md)
-    * [Tech Rebel](about-me/projects/tech-rebel/README.md)
-      * [RWA Tokenization POC: Cars](about-me/projects/tech-rebel/rwa-tokenization-poc-cars.md)
-      * [NeoBank Discovery](about-me/projects/tech-rebel/neobank-discovery.md)
-    * [Phoros](about-me/projects/phoros.md)
-    * [Veritrust](about-me/projects/veritrust.md)
+  * [My Projects](about-me/my-projects/README.md)
+    * [Tech Rebel](about-me/my-projects/tech-rebel/README.md)
+      * [RWA Tokenization POC: Cars](about-me/my-projects/tech-rebel/rwa-tokenization-poc-cars.md)
+      * [NeoBank Discovery](about-me/my-projects/tech-rebel/neobank-discovery.md)
+    * [Phoros](about-me/my-projects/phoros.md)
+    * [Veritrust](about-me/my-projects/veritrust.md)
 * [NFTs en Productos](nfts-en-productos/README.md)
   * [Smart Contracts](nfts-en-productos/smart-contracts.md)
   * [Arquitectura de un Producto Web3 que Utiliza Tokens](nfts-en-productos/arquitectura-de-un-producto-web3-que-utiliza-tokens.md)
