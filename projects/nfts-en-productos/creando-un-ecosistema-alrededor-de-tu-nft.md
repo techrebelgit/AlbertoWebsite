@@ -2,7 +2,7 @@
 
 Al lanzar un NFT al mercado, no solo estás creando un activo digital; estás sembrando la semilla de un ecosistema completo que puede florecer en innumerables formas. Cada NFT tiene el potencial de ser el núcleo de un amplio conjunto de experiencias e interacciones. Veamos cómo.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Marketplaces y Mint Page: El Mercado y la Ceca
 

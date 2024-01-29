@@ -2,7 +2,7 @@
 
 La creación de un producto Web3 es un ejercicio de precisión arquitectónica, donde cada componente tiene un papel definido que contribuye a la autonomía y eficiencia del sistema.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Frontend (FE): La Cara del Producto Web3
 
