@@ -6,7 +6,7 @@ Bienvenidos a un emocionante viaje por el mundo de los NFTs (Non-Fungible Tokens
 
 Los NFTs son mucho más que una tendencia pasajera en el mundo digital; son una revolución en cómo conceptualizamos la propiedad y autenticidad en el ámbito digital. Cada NFT es único y no puede ser intercambiado de manera equivalente con otro, lo que lo convierte en un activo digital invaluable por su singularidad y originalidad.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Importante recalcar que tanto tokens fungibles como no fungibles conviven sobre la red blockchain. Es decir, sobre Eth hay tanto tokens fungibles como no fungibles. </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Importante recalcar que tanto tokens fungibles como no fungibles conviven sobre la red blockchain. Es decir, sobre Eth hay tanto tokens fungibles como no fungibles. </p></figcaption></figure>
 
 ### El Valor de los NFTs en Productos Digitales
 

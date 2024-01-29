@@ -11,4 +11,7 @@
   * [Smart Contracts](nfts-en-productos/smart-contracts.md)
   * [Arquitectura de un Producto Web3 que Utiliza Tokens](nfts-en-productos/arquitectura-de-un-producto-web3-que-utiliza-tokens.md)
   * [Creando un Ecosistema alrededor de tu NFT](nfts-en-productos/creando-un-ecosistema-alrededor-de-tu-nft.md)
+* [Taxonomía de los NFTs](taxonomia-de-los-nfts/README.md)
+  * [Definiendo el Objeto de Referencia](taxonomia-de-los-nfts/definiendo-el-objeto-de-referencia.md)
+  * [Propiedades del Token: La Importancia de los Estándares ERC](taxonomia-de-los-nfts/propiedades-del-token-la-importancia-de-los-estandares-erc.md)
 * [Linkedin](https://www.linkedin.com/in/alberto-chaves-costarica)

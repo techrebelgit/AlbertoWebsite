@@ -8,7 +8,7 @@ Imagina que estás frente a una máquina expendedora. Introduces tu dinero, sele
 
 Los Smart Contracts funcionan de manera similar en el mundo de los NFTs y la blockchain. Son contratos autoejecutables con los términos del acuerdo entre comprador y vendedor escritos directamente en líneas de código. Estos contratos viven y operan en la blockchain, que es una red descentralizada y segura que actúa como un libro mayor inmutable.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Elementos de un Smart Contract
 
@@ -16,7 +16,7 @@ Los Smart Contracts funcionan de manera similar en el mundo de los NFTs y la blo
 
 Para los NFTs, el estándar más común es el ERC-721, que permite la creación de tokens únicos. Este estándar es crucial porque define las normas que todos los Smart Contracts ERC-721 deben seguir para funcionar correctamente dentro del ecosistema Ethereum.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Funciones Esenciales
 
