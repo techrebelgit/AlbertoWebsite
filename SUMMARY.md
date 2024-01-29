@@ -21,4 +21,5 @@
     * [ERC-5570: Digital Receipt NFTs](taxonomia-de-los-nfts/propiedades-del-token-la-importancia-de-los-estandares-erc/erc-5570-digital-receipt-nfts.md)
     * [ERC-6220: NFTs Compuestos Utilizando Partes Equipables](taxonomia-de-los-nfts/propiedades-del-token-la-importancia-de-los-estandares-erc/erc-6220-nfts-compuestos-utilizando-partes-equipables.md)
     * [ERC-7439: Prevención de la Reventa Especulativa de Boletos](taxonomia-de-los-nfts/propiedades-del-token-la-importancia-de-los-estandares-erc/erc-7439-prevencion-de-la-reventa-especulativa-de-boletos.md)
+    * [ERC-5679: Acuñación(Mint) y Quema(Burn) de Tokens](taxonomia-de-los-nfts/propiedades-del-token-la-importancia-de-los-estandares-erc/erc-5679-acunacion-mint-y-quema-burn-de-tokens.md)
 * [Linkedin](https://www.linkedin.com/in/alberto-chaves-costarica)
