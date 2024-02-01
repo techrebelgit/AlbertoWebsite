@@ -8,7 +8,7 @@ Imagina que estás frente a una máquina expendedora. Introduces tu dinero, sele
 
 Los Smart Contracts funcionan de manera similar en el mundo de los NFTs y la blockchain. Son contratos autoejecutables con los términos del acuerdo entre comprador y vendedor escritos directamente en líneas de código. Estos contratos viven y operan en la blockchain, que es una red descentralizada y segura que actúa como un libro mayor inmutable.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Elementos de un Smart Contract
 
@@ -16,7 +16,7 @@ Los Smart Contracts funcionan de manera similar en el mundo de los NFTs y la blo
 
 Para los NFTs, el estándar más común es el ERC-721, que permite la creación de tokens únicos. Este estándar es crucial porque define las normas que todos los Smart Contracts ERC-721 deben seguir para funcionar correctamente dentro del ecosistema Ethereum.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>El Contrato inteligente define las funcionalidades que se pueden realizar con un token específico. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>El Contrato inteligente define las funcionalidades que se pueden realizar con un token específico. </p></figcaption></figure>
 
 #### Funciones Esenciales
 
@@ -39,6 +39,8 @@ Al igual que una máquina expendedora, el Smart Contract es implacablemente lóg
 
 
 
+En resumen, los Smart Contracts son el motor que da vida a los NFTs, proporcionando la infraestructura necesaria para que estos activos digitales funcionen de manera autónoma y segura. Con cada función y atributo cuidadosamente codificado, estos contratos inteligentes nos permiten imaginar y construir una economía digital más libre y justa. Sin embargo, para que un NFT o cualquier token tenga un impacto real, debe ser parte de un ecosistema tecnológico más amplio.&#x20;
 
+En sección de [Arquitectura](../arquitectura-de-un-producto-web3-que-utiliza-tokens.md), exploraremos[^1] la arquitectura general de un producto Web3 que utiliza tokens, detallando cómo cada componente juega un papel esencial en la creación de una experiencia digital descentralizada. Pero antes exploremos un poco más en las funciones básicas de un contrato 721.&#x20;
 
-En resumen, los Smart Contracts son el motor que da vida a los NFTs, proporcionando la infraestructura necesaria para que estos activos digitales funcionen de manera autónoma y segura. Con cada función y atributo cuidadosamente codificado, estos contratos inteligentes nos permiten imaginar y construir una economía digital más libre y justa. Sin embargo, para que un NFT o cualquier token tenga un impacto real, debe ser parte de un ecosistema tecnológico más amplio. En la siguiente sección, exploraremos la arquitectura general de un producto Web3 que utiliza tokens, detallando cómo cada componente juega un papel esencial en la creación de una experiencia digital descentralizada.
+[^1]: test
