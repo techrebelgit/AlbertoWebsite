@@ -16,13 +16,13 @@ Los Smart Contracts funcionan de manera similar en el mundo de los NFTs y la blo
 
 Para los NFTs, el estándar más común es el ERC-721, que permite la creación de tokens únicos. Este estándar es crucial porque define las normas que todos los Smart Contracts ERC-721 deben seguir para funcionar correctamente dentro del ecosistema Ethereum.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>El Contrato inteligente define las funcionalidades que se pueden realizar con un token específico. </p></figcaption></figure>
 
 #### Funciones Esenciales
 
 * **Función de Acuñación (Mint Function)**: Es como seleccionar tu bebida en la máquina expendedora. Esta función permite crear un nuevo NFT, único y rastreable.
 * **Función de Transferencia (Transfer Function)**: Al igual que la máquina dispensa el producto, esta función permite al dueño del NFT enviarlo a otro usuario.
-* **Funciones de Aprobación (Approve Function)**: Decides quién puede manejar o transferir tu NFT, proporcionando una capa extra de seguridad y control.
+* **Funciones de Aprobación (Approve Function)**: Decides quién puede manejar o transferir tu NFT, proporcionando una capa extra de seguridad y control. Esta función permite que el propietario actual de un NFT autorice a otra dirección (un usuario o un contrato inteligente) para transferir el token específico en su nombre. así funcionan los marketplaces como Opensea.&#x20;
 * **Funciones de Propiedad (Ownership Functions)**: Estas funciones establecen y verifican quién es el dueño actual del NFT.
 
 #### Datos y Metadatos

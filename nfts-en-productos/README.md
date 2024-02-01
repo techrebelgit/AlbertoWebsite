@@ -1,6 +1,6 @@
 # NFTs en Productos
 
-Bienvenidos a un emocionante viaje por el mundo de los NFTs (Non-Fungible Tokens) y su integración en productos digitales. Esta guía está diseñada para emprendedores, programadores y entusiastas de la tecnología que buscan comprender y explorar el potencial de los tokens en sus innovaciones.
+Bienvenidos a un emocionante viaje por el mundo de los NFTs (Non-Fungible Tokens) y su integración en productos digitales. Esta guía está diseñada para emprendedores, programadores y entusiastas de la tecnología que buscan comprender y explorar el potencial de los tokens en sus productos.
 
 ### ¿Qué son los NFTs?
 
