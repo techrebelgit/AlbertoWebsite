@@ -1,7 +1,5 @@
 # RWA Tokenization POC: Cars
 
-## Empowering Blockchain Innovation: How Tech Rebel Fast-Tracked Brashlabs’ RWA Tokenization POC
-
 We are very proud of our recent collaboration with Brashlabs. Brashlabs approached Tech Rebel with a groundbreaking idea: to develop a Proof of Concept (POC) using the XRP ledger to trace vehicle history, a concept with potential applications across various industries.&#x20;
 
 The objective was clear – create a working POC that could demonstrate to potential investors the feasibility and innovation of their idea.

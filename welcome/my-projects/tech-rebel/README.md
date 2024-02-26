@@ -1,10 +1,26 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Tech Rebel
+
+[TechRebel Website](https://www.techrebel.world)
 
 Tech Rebel is a web3 Product Management Agency I founded with Sergio, a lifetime friend of mine.&#x20;
 
 Our mission with Tech Rebel is to empower businesses to successfully experiment with blockchain and web3. We specialize in turning bold ideas into well-defined, actionable strategies, ensuring a robust groundwork for successful development.
 
-Most of our customers are founders, entrepreneurs or companies who want to learn and experiment on web3, without hiring a full-scale department for it. We help them build a POC or an MVP in a faster and cheaper way. than doing it in-house.&#x20;
+Our customers are founders, entrepreneurs and companies who want to learn and experiment on web3, without hiring a full-scale department for it. We help them build a POC or an MVP in a faster and cheaper way. than doing it in-house.&#x20;
 
 ### **From Idea to Development-Ready**
 
