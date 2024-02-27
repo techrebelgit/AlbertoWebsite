@@ -23,12 +23,6 @@ At Tech Rebel, we have been building a network of development partners around La
 
 For this product, we sent the documentation to five teams that we knew had experience with RWAs. The Art Universe, a very experienced team of developers, was chosen because of their expertise and similar projects in their portfolio.
 
-#### The Solution: NFT-based Vehicle History Tracking on the XRP Ledger
-
-Leveraging the unique capabilities of the XRP ledger, we designed a system where each vehicle was represented by a non-fungible token (NFT). This NFT contained immutable data, like the VIN number. Subsequent events in the vehicle's life (like maintenance or accidents) were recorded as separate NFTs linked to the vehicle's NFT, creating a comprehensive, tamper-proof history.
-
-A user-friendly web application was developed, enabling users to create new vehicle NFTs and log events. This functionality was coupled with a dashboard displaying a vehicle's history. The application was designed to mask the complexities of blockchain and NFTs, offering an intuitive experience for users.
-
 #### The Outcome: A Cost-Effective, Efficient POC Development
 
 The collaboration between Tech Rebel, Brashlabs, and The Art Universe led to the development of a pioneering, on-chain blockchain POC within a remarkably short timeframe and at a fraction of the expected cost. Our precise documentation and detailed PRD allowed the development team to accurately estimate resources, leading to an efficient and streamlined development process.
