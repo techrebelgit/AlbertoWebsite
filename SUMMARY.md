@@ -3,6 +3,7 @@
 * [Welcome!](README.md)
   * [About me](welcome/about-me.md)
   * [My Projects](welcome/my-projects/README.md)
+    * [Trustless Work](welcome/my-projects/trustless-work.md)
     * [Tech Rebel](welcome/my-projects/tech-rebel/README.md)
       * [RWA Tokenization POC: Cars](welcome/my-projects/tech-rebel/rwa-tokenization-poc-cars.md)
       * [NeoBank Discovery](welcome/my-projects/tech-rebel/neobank-discovery.md)
