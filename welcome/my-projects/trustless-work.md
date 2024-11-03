@@ -1,6 +1,8 @@
 # Trustless Work
 
-## Trustless Work Update: Our Journey So Far
+## Trustless Work: Our Journey So Far
+
+[Trustless Work website](https://www.trustlesswork.com)
 
 #### **1. Introduction: The Vision Behind Trustless Work**
 
